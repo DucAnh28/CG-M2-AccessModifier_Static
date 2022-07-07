@@ -14,4 +14,8 @@ public class StaticMethod {
         college = "CODEGYM";
     }
 
+    void display(){
+        System.out.println(rollo + " " + name + " " + college);
+    }
+
 }
